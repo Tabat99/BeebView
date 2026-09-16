@@ -1,5 +1,0 @@
-https://github.com/libsdl-org/SDL/releases
-Locate SDL3-3.4.16.zip (or the lates version)
-Download and store in (this) sdl3 folder - but do not unzip
-Do not download the other version suich as win, mingw etc.
-
