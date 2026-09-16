@@ -1,0 +1,2 @@
+#include <windows.h>
+IDI_BEEBVIEW ICON "packaging/windows/beebview.ico"

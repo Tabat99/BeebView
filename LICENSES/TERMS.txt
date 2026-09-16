@@ -1,0 +1,147 @@
+BEEBVIEW - TERMS AND CONDITIONS
+
+Last updated: 16 September 2026
+
+
+1. OPEN SOURCE LICENCE
+
+BeebView is open-source software distributed under the MIT License.
+
+You may use, copy, modify, merge, publish, distribute, sublicense and/or
+sell copies of BeebView in accordance with the MIT License.
+
+A copy of the MIT License is supplied with BeebView. The copyright notice
+and MIT License notice must be retained in copies or substantial portions
+of the software.
+
+If there is any conflict between these Terms and the rights granted under
+the MIT License, the MIT License governs the licensing of BeebView source
+code and software.
+
+
+2. SOFTWARE PROVIDED "AS IS"
+
+BeebView is provided "as is", without warranty of any kind, express or
+implied, to the extent permitted by applicable law.
+
+No guarantee is made that BeebView will be error-free, uninterrupted,
+suitable for a particular purpose, compatible with every system or file,
+or that data processed by the software will not be lost or damaged.
+
+Users should maintain appropriate backups of important documents and
+other data.
+
+
+3. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the authors and
+copyright holders of BeebView shall not be liable for any claim, damages
+or other liability arising from, out of, or in connection with BeebView
+or its use.
+
+Nothing in these Terms is intended to exclude or limit liability where
+such exclusion or limitation is prohibited by applicable law.
+
+
+4. USER RESPONSIBILITY
+
+You are responsible for how you use BeebView and for determining whether
+it is suitable for your requirements.
+
+You are responsible for maintaining backups of files edited, created,
+converted, printed or otherwise processed using BeebView.
+
+You should not rely on BeebView as the sole copy or storage location for
+important information.
+
+
+5. FILE COMPATIBILITY
+
+BeebView is inspired by and provides compatibility with features and
+workflows associated with Acornsoft VIEW, together with additional modern
+functionality.
+
+Compatibility with every VIEW document, command, platform, filesystem,
+printer or third-party file format is not guaranteed.
+
+Modern BeebView features should not be interpreted as features of the
+original Acornsoft VIEW software.
+
+
+6. THIRD-PARTY SOFTWARE AND COMPONENTS
+
+BeebView may incorporate, link to, bundle or be built using third-party
+open-source software, libraries, fonts and tools.
+
+Those components remain subject to their respective licences and
+copyright notices.
+
+Applicable third-party notices and licence information are supplied with
+BeebView in the LICENSES directory and/or accompanying distribution
+documentation.
+
+The BeebView MIT License does not replace or alter the licences applicable
+to third-party components.
+
+
+7. MODIFIED VERSIONS
+
+The MIT License permits modification and redistribution of BeebView.
+
+Modified or redistributed versions should not be represented as an
+official BeebView release produced by the original project unless
+authorised to do so.
+
+Anyone distributing a modified version is responsible for complying with
+the MIT License and all applicable third-party licence requirements.
+
+
+8. SECURITY AND DATA
+
+No software can be guaranteed to be completely secure.
+
+You should exercise appropriate care when opening files obtained from
+untrusted or unknown sources.
+
+BeebView may read and write files selected by the user and may interact
+with operating-system facilities required for features such as printing,
+clipboard access, configuration and filesystem access.
+
+
+9. AVAILABILITY AND SUPPORT
+
+BeebView may be changed, updated or discontinued at any time.
+
+Unless separately agreed, there is no obligation to provide technical
+support, maintenance, updates, compatibility fixes or any particular
+feature.
+
+
+10. THIRD-PARTY NAMES AND TRADEMARKS
+
+Names, trademarks and other intellectual property belonging to third
+parties remain the property of their respective owners.
+
+References to third-party products, systems or software are provided for
+identification, compatibility or historical purposes and do not imply
+endorsement, sponsorship or affiliation.
+
+
+11. CHANGES TO THESE TERMS
+
+These Terms may be updated for future releases of BeebView.
+
+A version of the Terms supplied with a particular release describes the
+additional terms and notices applicable to that release.
+
+Changes to these Terms do not retrospectively remove rights already
+granted under the MIT License.
+
+
+12. MIT LICENSE
+
+The full MIT License supplied with BeebView forms the software licence
+for BeebView.
+
+Third-party components are governed by their respective licences as
+identified in the accompanying LICENSES directory.

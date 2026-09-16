@@ -1,0 +1,44 @@
+BeebView third-party notices
+============================
+
+SDL3
+----
+BeebView's SDL graphical frontend uses SDL3. The bundled SDL 3.4.16 source
+archive and private SDL runtime are distributed under SDL's zlib license.
+See SDL3/LICENSE.txt.
+
+Bedstead
+--------
+BeebView's compiled SDL bitmap font contains printable ASCII glyphs derived
+from Bedstead 3.261 by Ben Harris. The supplied Bedstead distribution dedicates
+the work to the public domain under CC0 1.0 Universal.
+See Bedstead/README.txt and Bedstead/CC0-1.0.txt.
+
+linuxdeploy
+-----------
+The Linux installer builder downloads and runs linuxdeploy while constructing
+AppDirs. linuxdeploy is an MIT-licensed build tool. It is not intentionally
+installed as part of BeebView. See linuxdeploy/LICENSE.txt.
+
+AppImageKit / AppImage runtime
+------------------------------
+BeebView AppImages are produced with AppImage tooling. AppImageKit's original
+source code is MIT licensed as described in AppImageKit/LICENSE.txt. That
+license explicitly does not determine the licenses of software placed inside
+an AppImage; bundled components retain their own licenses.
+
+Other bundled libraries
+-----------------------
+The final AppImage may contain shared libraries selected by linuxdeploy from
+the build host. Release builds should inspect the finished AppImage and retain
+any notices required by those bundled libraries. This file is not a substitute
+for that final-package audit.
+
+ncurses / tinfo
+--------------
+The BeebView Terminal AppImage may bundle ncurses and tinfo shared libraries
+selected by linuxdeploy from the build host. These libraries use the ncurses
+MIT/X11-style license; some ncurses source files also carry X11 or BSD-3-Clause
+notices. See ncurses/COPYRIGHT.txt for the distribution copyright and license
+information used by the build environment. The terminal .deb normally uses
+system ncurses libraries rather than bundling them.

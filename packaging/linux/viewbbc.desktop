@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=BeebView
+Comment=Native reimplementation of Acornsoft VIEW for the BBC Micro
+Exec=BeebView %f
+TryExec=BeebView
+Icon=beebview
+Terminal=false
+Categories=Utility;TextEditor;
+MimeType=text/plain;text/x-log;text/x-csrc;text/x-chdr;text/x-c++src;text/x-c++hdr;application/x-shellscript;text/x-python;text/markdown;text/csv;application/json;application/xml;text/xml;text/html;
+StartupNotify=true

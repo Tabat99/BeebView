@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=BeebView Terminal
+Comment=Run the terminal frontend of BeebView
+Exec=BeebView-terminal-launcher %F
+TryExec=BeebView-terminal-launcher
+Icon=beebview-terminal
+Terminal=false
+Categories=Utility;TextEditor;
+StartupNotify=false
