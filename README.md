@@ -1,6 +1,7 @@
 # BeebView
 
 Author: mjd 2026
+
 License: MIT
 
 Description:
@@ -75,10 +76,6 @@ Both frontends use the same portable editor core.
 
 
 ## Building on Linux / Windows
-
-Download: SDL3-3.4.16.zip  (or the latest version)
-From:     https://github.com/libsdl-org/SDL/releases
-Copy the ZIP to sdl3 directory (do not unzip it)
 
 The normal build under linux is:
    ./build_installers.sh
